@@ -1,4 +1,4 @@
 # introducci-nGitHub
-Working Directory :grinning:
-Staging Area
-.git Directory(Respository)
+Working Directory :grinning: \n
+Staging Area :smile: \n
+.git Directory(Respository) :laughing: \n
