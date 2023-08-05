@@ -1,5 +1,4 @@
 # introducci-nGitHub
-Working Directory :grinning: <br>
-Staging Area :smile: <br>
-.git Directory(Respository) :laughing: <br>
-crea una nueva sala jejeje
+<strong>Working Directory</strong> :grinning: <br>
+<em>Staging Area</em> :smile: <br>
+<ul><li>.git Directory(Respository)</li></ul> :laughing: <br>
